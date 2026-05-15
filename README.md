@@ -15,7 +15,7 @@ IC yang digunakan dalam rangkaian ini adalah:
 3. Edwin Alfian Barin (H1H025070)
 
 ## Tautan Rangkaian Tinkercad
-* [MASUKKAN LINK TINKERCAD PUBLIK DI SINI]
+* (https://www.tinkercad.com/things/4fD7eUxRTuV-7-komponen-ic-dengan-masing-masing-gerbang-logika)
 
 ## Tabel Kebenaran (Truth Table)
 | A | B | C | Output Y |
