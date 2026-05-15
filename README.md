@@ -1,7 +1,6 @@
-# Tugas-Praktikum-Sisdig
 # Tugas Praktikum Sistem Digital - Implementasi 3 IC Gerbang Logika
 
-## Deskripsi Tugas
+## Deskripsi
 Repositori ini berisi hasil pengerjaan simulasi gerbang logika menggunakan platform Tinkercad Circuits. Rangkaian ini dirancang menggunakan 3 komponen IC TTL seri 74HC untuk merepresentasikan persamaan logika kombinasi:
 **Y = (A . B) + C'**
 
@@ -12,8 +11,8 @@ IC yang digunakan dalam rangkaian ini adalah:
 
 ## Anggota Kelompok
 1. Edwin Alfian Barin (H1H025070)
-2. [Nama Anggota 2] ([NIM 2])
-3. [Nama Anggota 3] ([NIM 3])
+2. Edwin Alfian Barin (H1H025070)
+3. Edwin Alfian Barin (H1H025070)
 
 ## Tautan Rangkaian Tinkercad
 * [MASUKKAN LINK TINKERCAD PUBLIK DI SINI]
