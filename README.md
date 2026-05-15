@@ -3,13 +3,14 @@
 ## Deskripsi
 
 IC yang digunakan dalam rangkaian ini adalah:
-1. 74HC08 (Quad 2-Input AND Gate):** Mengkalikan input A dan B.
-2. 74HC32 (Hex Inverter):** Membalik nilai input C.
-3. 74HC04 (Quad 2-Input OR Gate):** Menjumlahkan hasil AND dan NOT untuk disalurkan ke LED.
-4. 74HC132
-5. 74HC02
-6. 74HC86
-7. 74HC86 dan 74HC04
+1. 74HC08 (Quad AND Gate):
+2. 74HC32 (Quad OR Gate):
+3. 74HC04 (Hex Inverter):
+4. 74HC132 (Quad NAND Gate)
+5. 74HC02 (Quad NOR Gate)
+6. 74HC86 (Quad XOR Gate)
+7. 74HC86 (Quad OR Gate) dan 74HC04 (Hex Inverter)<img width="552" height="351" alt="Screenshot 2026-05-15 154002" src="https://github.com/user-attachments/assets/5afb824e-435c-468f-b0a0-1d350a360fe6" />
+
 
 ## Anggota Kelompok
 1. Edwin Alfian Barin (H1H025070)
