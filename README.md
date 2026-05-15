@@ -1,33 +1,28 @@
 # Tugas Praktikum Sistem Digital - Implementasi 7 Komponen IC Gerbang Logika
 
 ## Deskripsi
+Repositori ini berisi hasil simulasi rangkaian gerbang logika menggunakan platform Tinkercad Circuits. Rangkaian ini dirancang menggunakan 7 komponen IC TTL seri 74HC untuk mendemonstrasikan fungsi dari masing-masing gerbang logika dasar (AND, OR, NOT, NAND, NOR, XOR, dan XNOR).
 
 IC yang digunakan dalam rangkaian ini adalah:
-1. 74HC08 (Quad AND Gate):
-2. 74HC32 (Quad OR Gate):
-3. 74HC04 (Hex Inverter):
-4. 74HC132 (Quad NAND Gate)
-5. 74HC02 (Quad NOR Gate)
-6. 74HC86 (Quad XOR Gate)
-7. 74HC86 (Quad OR Gate) dan 74HC04 (Hex Inverter)<img width="552" height="351" alt="Screenshot 2026-05-15 154002" src="https://github.com/user-attachments/assets/5afb824e-435c-468f-b0a0-1d350a360fe6" />
-
+1. 74HC08 (Quad AND Gate)
+   
+3. 74HC32 (Quad OR Gate)
+   
+4. 74HC04 (Hex Inverter)
+   
+5. 74HC132 (Quad NAND Gate)
+   
+6. 74HC02 (Quad NOR Gate)
+   
+7. 74HC86 (Quad XOR Gate)
+   
+8. 74HC86 (Quad OR Gate) dan 74HC04 (Hex Inverter)
+   
 
 ## Anggota Kelompok
-1. Edwin Alfian Barin (H1H025070)
-2. Edwin Alfian Barin (H1H025070)
+1. Iwa Kumara Alden (H1H025037)
+2. Mohammad Naufal Asshidqi (H1H025041)
 3. Edwin Alfian Barin (H1H025070)
 
 ## Tautan Rangkaian Tinkercad
 * https://www.tinkercad.com/things/4fD7eUxRTuV-7-komponen-ic-dengan-masing-masing-gerbang-logika
-
-## Tabel Kebenaran (Truth Table)
-| A | B | C | Output Y |
-|:-:|:-:|:-:|:--------:|
-| 0 | 0 | 0 |    1     |
-| 0 | 0 | 1 |    0     |
-| 0 | 1 | 0 |    1     |
-| 0 | 1 | 1 |    0     |
-| 1 | 0 | 0 |    1     |
-| 1 | 0 | 1 |    0     |
-| 1 | 1 | 0 |    1     |
-| 1 | 1 | 1 |    1     |
