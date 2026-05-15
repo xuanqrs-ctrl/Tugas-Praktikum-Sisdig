@@ -3,6 +3,11 @@
 ## Deskripsi
 Repositori ini berisi hasil simulasi rangkaian gerbang logika menggunakan platform Tinkercad Circuits. Rangkaian ini dirancang menggunakan 7 komponen IC TTL seri 74HC untuk mendemonstrasikan fungsi dari masing-masing gerbang logika dasar (AND, OR, NOT, NAND, NOR, XOR, dan XNOR).
 
+## Anggota Kelompok
+1. Iwa Kumara Alden (H1H025037)
+2. Mohammad Naufal Asshidqi (H1H025041)
+3. Edwin Alfian Barin (H1H025070)
+
 IC yang digunakan dalam rangkaian ini adalah:
 1. 74HC08 (Quad AND Gate): Menghasilkan output logika 1 hanya jika semua inputnya bernilai 1.
    <img width="471" height="388" alt="and" src="https://github.com/user-attachments/assets/c0efc768-4e2a-4a36-b669-75468a17a253" />
@@ -24,12 +29,6 @@ IC yang digunakan dalam rangkaian ini adalah:
 
 7. 74HC86 (Quad OR Gate) dan 74HC04 (Hex Inverter): Digabungkan bersama untuk membentuk gerbang logika XNOR, yang menghasilkan output logika 1 jika kedua inputnya bernilai sama.
    <img width="641" height="404" alt="xnor" src="https://github.com/user-attachments/assets/83fa320d-1aaa-4e96-b74b-343b02106993" />
-
-
-## Anggota Kelompok
-1. Iwa Kumara Alden (H1H025037)
-2. Mohammad Naufal Asshidqi (H1H025041)
-3. Edwin Alfian Barin (H1H025070)
 
 ## Tautan Rangkaian Tinkercad
 * https://www.tinkercad.com/things/4fD7eUxRTuV-7-komponen-ic-dengan-masing-masing-gerbang-logika
