@@ -8,7 +8,7 @@ Repositori ini berisi hasil simulasi rangkaian gerbang logika menggunakan platfo
 2. Mohammad Naufal Asshidqi (H1H025041)
 3. Edwin Alfian Barin (H1H025070)
 
-##IC yang digunakan dalam rangkaian ini adalah:
+## IC yang digunakan dalam rangkaian ini adalah:
 1. 74HC08 (Quad AND Gate): Menghasilkan output logika 1 hanya jika semua inputnya bernilai 1.
    <img width="471" height="388" alt="and" src="https://github.com/user-attachments/assets/c0efc768-4e2a-4a36-b669-75468a17a253" />
 
