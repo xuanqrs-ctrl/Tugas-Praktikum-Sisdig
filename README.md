@@ -18,7 +18,7 @@ IC yang digunakan dalam rangkaian ini adalah:
 3. 74HC04 (Hex Inverter): Membalikkan nilai logika input (1 menjadi 0, dan sebaliknya).
    <img width="499" height="409" alt="not" src="https://github.com/user-attachments/assets/1a9cf343-0e0e-4f78-9d2b-9bc7397f71de" />
 
-4. 74HC132 (Quad NAND Gate): Berfungsi sebagai gerbang AND yang di-inversi (kebalikan dari output AND).
+4. 74HC132 (Quad NAND Gate): Berfungsi sebagai gerbang AND yang di-inversi (kebalikan dari output AND). Menghasilkan output 0 jika kedua input bernilai 1. 
    <img width="433" height="371" alt="nand" src="https://github.com/user-attachments/assets/3fbd9ba4-9700-447d-a972-5353425eca33" />
 
 5. 74HC02 (Quad NOR Gate): Menghasilkan output logika 1 jika kedua inputnya memiliki nilai 0.
