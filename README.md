@@ -19,7 +19,7 @@ Repositori ini berisi hasil simulasi rangkaian gerbang logika menggunakan platfo
    <img width="499" height="409" alt="not" src="https://github.com/user-attachments/assets/1a9cf343-0e0e-4f78-9d2b-9bc7397f71de" />
 
 4. 74HC132 (Quad NAND Gate): Berfungsi sebagai gerbang AND yang di-inversi (kebalikan dari output AND). Menghasilkan output 0 jika kedua input bernilai 1.
-   <img width="433" height="371" alt="nand" src="https://github.com/user-attachments/assets/3fbd9ba4-9700-447d-a972-5353425eca33" />
+   (<img width="433" height="371" alt="nand" src="https://github.com/user-attachments/assets/3fbd9ba4-9700-447d-a972-5353425eca33" />)
 
 5. 74HC02 (Quad NOR Gate): Menghasilkan output logika 1 jika kedua inputnya memiliki nilai 0.
    <img width="518" height="394" alt="nor" src="https://github.com/user-attachments/assets/572a231e-0af0-4125-b233-01bbe70763a4" />
